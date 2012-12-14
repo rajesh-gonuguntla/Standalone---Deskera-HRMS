@@ -55,7 +55,7 @@ goto setArgs
 :doneSetArgs
 
 rem Start mysql
-java -jar %CATALINA_HOME%\bin\install.jar
+java -jar "%CATALINA_HOME%\bin\install.jar"
 
 call "%EXECUTABLE%" start %CMD_LINE_ARGS%
 
