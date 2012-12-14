@@ -80,12 +80,6 @@ On Unix, $CATALINA_BASE/bin/setenv.sh:
 
       $CATALINA_HOME/bin/startup.sh           (Unix)
 
-   or
-
-      %CATALINA_HOME%\bin\catalina.bat start  (Windows)
-
-      $CATALINA_HOME/bin/catalina.sh start    (Unix)
-
 (3.2) After startup, Deskera HRMS will be available by visiting:
 
       http://localhost:7070/hrms/a/hrms/login.html
@@ -101,12 +95,6 @@ On Unix, $CATALINA_BASE/bin/setenv.sh:
       %CATALINA_HOME%\bin\shutdown.bat       (Windows)
 
       $CATALINA_HOME/bin/shutdown.sh         (Unix)
-
-   or
-
-      %CATALINA_HOME%\bin\catalina.bat stop  (Windows)
-
-      $CATALINA_HOME/bin/catalina.sh stop    (Unix)
 
 ================
 Troubleshooting
