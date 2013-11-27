@@ -6,7 +6,7 @@
 
 <property>
   <name>forum_base_url</name>
-  <value>http://localhost:7070/apps/</value>
+  <value>http://localhost:8080/apps/</value>
 </property>
 <!--property>
   <name>soap_server_url</name>
